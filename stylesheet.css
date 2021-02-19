@@ -1,0 +1,14 @@
+﻿#submit {
+    color: #fff;
+    font-size: 28px;
+    width: 135px;
+    height: 60px;
+    border: none;
+    margin: 0;
+    padding: 0;
+    background: #0c0 url(image) 0 0 no-repeat;
+}
+
+.footer {
+    padding-top: 40px;
+}
